@@ -1,0 +1,16 @@
+.statusGood {
+    color: green;
+}
+
+.statusMinor {
+    color: yellow;
+}
+
+.statusMajor {
+    color: red;
+}
+
+.jumbotron {
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
